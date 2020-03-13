@@ -29,7 +29,6 @@
 -   [Request-K Line History Data](#24)
 -   [Request-transaction history data](#25)
 -   [Request - 24 Market Data on Home Page](#26)
--   [test](#27)
 
 ---
 ### <span id="1">Balance of assets</span>
@@ -1567,9 +1566,5 @@ public class WsTest {
 
     }
 }
----
-### <span id="27">test (test) </span>
-123
-234
-345
+
 ```
